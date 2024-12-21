@@ -1,0 +1,26 @@
+{
+    "rounds": [
+        {
+            "name": "Vegetables 🍠",
+            "questions": [
+                {
+                    "question": "Name my favourite root vegetable",
+                    "answer": "Sweet Potato"
+                }
+            ]
+        },
+        {
+            "name": "Gerbils 🐹",
+            "questions": [
+                {
+                    "question": "Who are the most beautiful gerbils?",
+                    "answer": "Emmi & Rosa"
+                },
+                {
+                    "question": "What is a gerbils favourite snack?",
+                    "answer": "Toast but it is forbidden"
+                }
+            ]
+        }
+    ]
+}
