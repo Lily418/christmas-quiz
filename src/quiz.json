@@ -1,24 +1,30 @@
 {
     "rounds": [
         {
-            "name": "Vegetables 🍠",
+            "name": "Sport ⚽",
             "questions": [
                 {
-                    "question": "Name my favourite root vegetable",
-                    "answer": "Sweet Potato"
+                    "question": "In what city did the 2012 Olympics take place?",
+                    "answer": "London"
                 }
             ]
         },
         {
-            "name": "Gerbils 🐹",
+            "name": "Rivers 🗺️",
             "questions": [
                 {
-                    "question": "Who are the most beautiful gerbils?",
-                    "answer": "Emmi & Rosa"
-                },
+                    "question": "What river can be found in Llangollen?",
+                    "answer": "River Dee"
+                }
+            ]
+        },
+        {
+            "name": "Plant Identification",
+            "questions": [
                 {
-                    "question": "What is a gerbils favourite snack?",
-                    "answer": "Toast but it is forbidden"
+                    "question": "Plant A",
+                    "image": "images/lavender.png",
+                    "answer": "Lavender"
                 }
             ]
         }
