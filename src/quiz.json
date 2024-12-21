@@ -27,6 +27,18 @@
                     "answer": "Lavender"
                 }
             ]
+        },
+        {
+            "name": "Bible Trivia",
+            "questions": []
+        },
+        {
+            "name": "Animal Identification",
+            "questions": []
+        },
+        {
+            "name": "Food & Cooking",
+            "questions": []
         }
     ]
 }
