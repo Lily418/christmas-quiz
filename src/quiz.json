@@ -6,6 +6,26 @@
                 {
                     "question": "In what city did the 2012 Olympics take place?",
                     "answer": "London"
+                },
+                {
+                    "question": "What english football club has the nickname Pompey?",
+                    "answer": "Portsmouth FC"
+                },
+                {
+                    "question": "Who was BBC Sports personality of the year 2023?",
+                    "answer": "Mary Earps"
+                },
+                {
+                    "question": "What dangerous world famous event takes place annually at Cooper's Hill in Gloucester since 1826?",
+                    "answer": "Cheese Rolling"
+                },
+                {
+                    "question": "What is Valentino Rossi's nickname?",
+                    "answer": "The Doctor"
+                },
+                {
+                    "question": "How far is the running portion of an Olympic Triathlon? (To the nearest full mile or kilometre)",
+                    "answer": "6.2 miles (10 km)"
                 }
             ]
         },
@@ -15,6 +35,26 @@
                 {
                     "question": "What river can be found in Llangollen?",
                     "answer": "River Dee"
+                },
+                {
+                    "question": "In what country is the Rubicon?",
+                    "answer": "Italy"
+                },
+                {
+                    "question": "What is the name of the method which uses the power of moving water in a river to create electricity?",
+                    "answer": "Hydroelectric"
+                },
+                {
+                    "question": "In which english county is the source of the Thames?",
+                    "answer": "Gloucestershire"
+                },
+                {
+                    "question": "What is the 2nd longest river in the world?",
+                    "answer": "Amazon"
+                },
+                {
+                    "question": "What is the name for the place where two rivers flow into one?",
+                    "answer": "Confluence"
                 }
             ]
         },
@@ -22,23 +62,129 @@
             "name": "Plant Identification",
             "questions": [
                 {
-                    "question": "Plant A",
-                    "image": "images/lavender.png",
+                    "question": "Name this plant",
+                    "image": "images/lavander.jpg",
                     "answer": "Lavender"
+                },
+                {
+                    "question": "Name this plant",
+                    "image": "images/birch.jpg",
+                    "answer": "Silver birch"
+                },
+                {
+                    "question": "Name this plant",
+                    "image": "images/foxglove.jpg",
+                    "answer": "Foxglove"
+                },
+                {
+                    "question": "Name this plant",
+                    "image": "images/snow-drop.jpg",
+                    "answer": "Snowdrop"
+                },
+                {
+                    "question": "Name this plant",
+                    "image": "images/cherry.jpg",
+                    "answer": "Cherry Tree"
+                },
+                {
+                    "question": "Name this plant",
+                    "image": "images/cactus.png",
+                    "answer": "Cactus"
                 }
             ]
         },
         {
             "name": "Bible Trivia",
-            "questions": []
+            "questions": [
+                {
+                    "question": "Who was given the ten commandments?",
+                    "answer": "Moses"
+                },
+                {
+                    "question": "How many loaves of bread did Jesus have in the feeding of the five thousand?",
+                    "answer": "Seven"
+                },
+                {
+                    "question": "On what animal did Jesus ride into Jerusalem",
+                    "answer": "Donkey"
+                },
+                {
+                    "question": "What did Lot's wife turn into after looking back at Sodom?",
+                    "answer": "Salt"
+                },
+                {
+                    "question": "What type of fruit did Adam and Eve eat?",
+                    "answer": "Apple"
+                },
+                {
+                    "question": "Who said 'The time of my departure is at hand'?",
+                    "answer": "Paul (2 Timothy 4:6)"
+                }
+            ]
         },
         {
             "name": "Animal Identification",
-            "questions": []
+            "questions": [
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/capybara.jpg",
+                    "answer": "Capybara"
+                },
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/barn_owl.jpg",
+                    "answer": "Barn Owl"
+                },
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/fox.jpg",
+                    "answer": "Arctic Fox"
+                },
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/spiky.jpg",
+                    "answer": "Indian Crested Porcupine"
+                },
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/civet.jpg",
+                    "answer": "African Civet"
+                },
+                {
+                    "question": "What is this animal called?",
+                    "image": "images/otter.jpg",
+                    "answer": "Oriental Small Clawed Otter"
+                }
+            ]
         },
         {
             "name": "Food & Cooking",
-            "questions": []
+            "questions": [
+                {
+                    "question": "Are Jaffa Cakes legally a cake or a biscuit?",
+                    "answer": "Cake"
+                },
+                {
+                    "question": "Which nuts are used in marzipan?",
+                    "answer": "Almond"
+                },
+                {
+                    "question": "What type of wheat is used to make pasta?",
+                    "answer": "Durum"
+                },
+                {
+                    "question": "Where in the UK was Cadbury founded?",
+                    "answer": "Birmingham (Bournville)"
+                },
+                {
+                    "question": "What was the original name for a Snickers bar?",
+                    "answer": "Marathon"
+                },
+                {
+                    "question": "Who in Greek mythology is the god of wine?",
+                    "answer": "Dionysus"
+                }
+            ]
         }
     ]
 }

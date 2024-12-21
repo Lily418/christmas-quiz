@@ -33,6 +33,7 @@ const Question = ({ question }) => {
             <img
               src={`${process.env.PUBLIC_URL}/${question.image}`}
               className="object-contain h-full"
+              alt=""
             />
           </div>
         )}
@@ -90,6 +91,7 @@ const RoundAnswers = ({ round }) => {
                 {question.image && <img
                   src={`${process.env.PUBLIC_URL}/${question.image}`}
                   className="object-contain h-[400px]"
+                  alt=""
                 />}
                 <p className="text-white text-2xl">{question.answer}</p>
               </li>
@@ -240,14 +242,14 @@ function App() {
   const Wrapper = ({ children }) => {
     return (
       <div className="bg-emerald-900 h-screen flex flex-col justify-between items-center">
-        <div className="flex-1 flex justify-center h-5/6">
+        <div className="flex-1 flex justify-center">
           {children}
         </div>
         <a
           className="text-xs text-white w-full"
-          href="https://favicon.io/emoji-favicons/christmas-tree"
+          href={`${process.env.PUBLIC_URL}/credits.txt`}
         >
-          Favicon provided by favicon.io
+          Attributions
         </a>
       </div>
     );
@@ -277,7 +279,7 @@ function App() {
     if (roundNumber > 0) {
       const newRoundNumber = roundNumber - 1;
       const newQuestionNumber =
-        quiz.rounds[newRoundNumber].questions.length - 1;
+        quiz.rounds[newRoundNumber].questions.length;
       setRoundNumber(newRoundNumber);
       setQuestionNumber(newQuestionNumber);
       updateQueryString({
